@@ -4,7 +4,29 @@
 # In[ ]:
 
 
-word_list = ["4th of july","9th of september","eleven eleven","one eleven","we got this","we will make it","ithama","blinku","nand","goa","va polaam","you dont care about me only","va thoongalam","come discord","i am room","rochu pochu","po nee po","pani puri","momos","chats","cookies and cream","lovey dovey","finnie","finzie","come to kalyan nagar","i like you","will you marry me","wait for 4 years","it takes two","stardew valley","smashkarts","itsy bitsy","dominos","mankri huts","masala papad","loositha","loosy fellow","float brewery","burger king is better","i win","specsitha","sleepitha","i am sleep","ikea","DC League of super pets", "kesariya","shushi","brahmastra","i am your baby","you forgot i am your baby","enna da"]
+word_list = [
+    "The Shawshank Redemption", "The Godfather", "The Dark Knight", "Pulp Fiction", "Forrest Gump", 
+    "Inception", "Fight Club", "The Matrix", "The Lord of the Rings: The Return of the King", "Interstellar", 
+    "The Empire Strikes Back", "The Green Mile", "Schindler’s List", "The Silence of the Lambs", "Gladiator", 
+    "Saving Private Ryan", "The Prestige", "The Lion King", "The Departed", "Django Unchained", 
+    "The Usual Suspects", "Braveheart", "Whiplash", "The Intouchables", "The Wolf of Wall Street", 
+    "Goodfellas", "Se7en", "Parasite", "The Grand Budapest Hotel", "Avengers: Endgame", 
+    "No Country for Old Men", "There Will Be Blood", "The Truman Show", "A Beautiful Mind", "The Revenant", 
+    "Joker", "Mad Max: Fury Road", "1917", "La La Land", "Up", 
+    "Inside Out", "Ratatouille", "WALL-E", "Toy Story", "Finding Nemo", 
+    "Spirited Away", "Your Name", "Coco", "Howl’s Moving Castle", "The Incredibles", 
+    "Monsters, Inc.", "The Social Network", "The Curious Case of Benjamin Button", "The Pursuit of Happyness", "The Big Short", 
+    "Zodiac", "Gone Girl", "Shutter Island", "The Sixth Sense", "Memento", 
+    "Oldboy", "The Pianist", "12 Angry Men", "Citizen Kane", "Casablanca", 
+    "Vertigo", "Psycho", "Rear Window", "The Good, the Bad and the Ugly", "Once Upon a Time in Hollywood", 
+    "Reservoir Dogs", "Heat", "The Irishman", "Logan", "Deadpool", 
+    "Guardians of the Galaxy", "Spider-Man: No Way Home", "Doctor Strange", "Captain America: The Winter Soldier", "The Batman", 
+    "Dune", "Blade Runner 2049", "The Lord of the Rings: The Fellowship of the Ring", "The Lord of the Rings: The Two Towers", "Star Wars: A New Hope", 
+    "Star Wars: The Last Jedi", "Rogue One: A Star Wars Story", "The Dark Knight Rises", "Batman Begins", "The Suicide Squad", 
+    "The Conjuring", "Hereditary", "A Quiet Place", "Get Out", "It", 
+    "The Exorcist", "The Shining", "Halloween", "Scream", "The Texas Chain Saw Massacre"
+]
+
 
 data = [
     {
